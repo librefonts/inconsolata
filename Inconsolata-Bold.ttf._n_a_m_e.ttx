@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Created by Raph Levien using his own tools and FontForge. Copyright 2006 Raph Levien. Released under the Apache 2 license.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Inconsolata
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      RaphLevien,KirillTkachev(cyreal.org): Inconsolata Bold: 2011
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Inconsolata Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.014; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Inconsolata-Bold
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      Raph Levien, Kirill Tkachev(cyreal.org)
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Raph Levien, Kirill Tkachev(cyreal.org)
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      Copyright 2011 Raph Levien&#13;&#13;Licensed under the Apache License, Version 2.0 (the "License");&#13;you may not use this file except in compliance with the License.&#13;You may obtain a copy of the License at&#13;&#13;    http://www.apache.org/licenses/LICENSE-2.0&#13;&#13;Unless required by applicable law or agreed to in writing, software&#13;distributed under the License is distributed on an "AS IS" BASIS,&#13;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#13;See the License for the specific language governing permissions and&#13;limitations under the License.
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://www.apache.org/licenses/LICENSE-2.0.html
+    </namerecord>
+    <namerecord nameID="18" platformID="1" platEncID="0" langID="0x0">
+      Inconsolata
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Created by Raph Levien using his own tools and FontForge. Copyright 2006 Raph Levien. Released under the Apache 2 license.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Inconsolata
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Bold
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      RaphLevien,KirillTkachev(cyreal.org): Inconsolata Bold: 2011
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Inconsolata Bold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.014; ttfautohint (v0.92) -l 8 -r 50 -G 200 -x 14 -w "G"
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Inconsolata-Bold
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Raph Levien, Kirill Tkachev(cyreal.org)
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Raph Levien, Kirill Tkachev(cyreal.org)
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Copyright 2011 Raph Levien&#13;&#13;Licensed under the Apache License, Version 2.0 (the "License");&#13;you may not use this file except in compliance with the License.&#13;You may obtain a copy of the License at&#13;&#13;    http://www.apache.org/licenses/LICENSE-2.0&#13;&#13;Unless required by applicable law or agreed to in writing, software&#13;distributed under the License is distributed on an "AS IS" BASIS,&#13;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#13;See the License for the specific language governing permissions and&#13;limitations under the License.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.apache.org/licenses/LICENSE-2.0.html
+    </namerecord>
+  </name>
+
+</ttFont>

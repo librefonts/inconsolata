@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2006-2012, Raph Levien (firstname.lastname@gmail.com), Copyright (c) 2011-2012, Cyreal (cyreal.org)
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Inconsolata
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      RaphLevien,KirillTkachev(cyreal.org): Inconsolata Regular: 2012
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Inconsolata
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 1.013
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Inconsolata-Regular
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      Cyreal
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Raph Levien, Kirill Tkachev
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0">
+      Regular created by Raph Levien using his own Spiro-based tools and FontForge. Bold created by Kirill Tkachev for Cyreal.org
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      www.cyreal.org
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      www.levien.com
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2006-2012, Raph Levien (firstname.lastname@gmail.com), Copyright (c) 2011-2012, Cyreal (cyreal.org)
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Inconsolata
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      RaphLevien,KirillTkachev(cyreal.org): Inconsolata Regular: 2012
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Inconsolata
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.013
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Inconsolata-Regular
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Cyreal
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Raph Levien, Kirill Tkachev
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Regular created by Raph Levien using his own Spiro-based tools and FontForge. Bold created by Kirill Tkachev for Cyreal.org
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      www.cyreal.org
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      www.levien.com
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+  </name>
+
+</ttFont>
