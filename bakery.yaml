@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [Inconsolata-Regular.ttf.ttx, Inconsolata-Bold.ttf.ttx, src/Inconsolata-Regular.otf.ttx,
+  src/Inconsolata-Bold.otf.ttx, src/ppedit/Inconsolata.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
